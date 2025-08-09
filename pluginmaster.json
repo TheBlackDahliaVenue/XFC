@@ -3,7 +3,7 @@
     "Author": "Tsuki N'haro",
     "Name": "XFC Plugin",
     "Description": "A custom plugin for XFC via Dalamud",
-    "InternalName": "XFCPlugin",
+    "InternalName": "XFCPlugins",
     "AssemblyVersion": "1.0.0.0",
     "TestingAssemblyVersion": null,
     "RepoUrl": "https://github.com/TheBlackDahliaVenue/XFC",  
