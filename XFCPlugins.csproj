@@ -1,0 +1,24 @@
+<Project Sdk="Dalamud.NET.Sdk/13.0.0">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+
+    <AssemblyName>XFCPlugins</AssemblyName>
+    <RootNamespace>XFCPlugins</RootNamespace>
+    <PluginAuthor>Tsuki N'haro</PluginAuthor>
+    <PluginName>XFC Plugins</PluginName>
+    <DalamudPlugin>true</DalamudPlugin>
+    <DalamudPluginManifest>XFCPlugins.json</DalamudPluginManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ImGui.NET" Version="1.87.3" />
+    <Reference Include="Dalamud">
+      <HintPath>Libs\Dalamud.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+</Project>

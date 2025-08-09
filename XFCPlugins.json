@@ -1,0 +1,21 @@
+
+  {
+    "Author": "Tsuki N'haro",
+    "Name": "XFC Plugin",
+    "Description": "A custom plugin for XFC via Dalamud",
+    "InternalName": "XFCPlugin",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": null,
+    "RepoUrl": "https://github.com/TheBlackDahliaVenue/XFC",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "Punchline": "XFC Fight Club Plugin",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/TheBlackDahliaVenue/XFC/releases/download/v1.0.0.0/XFCPlugin.zip",
+    "DownloadLinkTesting": "",
+    "DownloadLinkUpdate": "https://github.com/TheBlackDahliaVenue/XFC/releases/download/v1.0.0.0/XFCPlugin.zip",
+    "LastUpdate": "1.0.0.0",
+    "Tags": [ "custom", "xfc" ]
+  }
+
